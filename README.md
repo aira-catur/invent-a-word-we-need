@@ -1,5 +1,7 @@
 # Invent a Word We Need
 
+Entry note: the coined word is "Thoughtplied" — being certain you answered a message when the reply was only ever composed in your head.
+
 An entry for [Invent a Word We Need](https://make.fun/bounty/u-deranalabs-invent-a-word-we-need-17a020e0) on make.fun: one freshly coined English word with a one-line definition, written to `entry.txt`.
 
 The entry coins **Thoughtplied** — the false certainty that you answered a message when you only composed the reply in your head.
